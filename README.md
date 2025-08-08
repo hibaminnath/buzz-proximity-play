@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-## Project info
 
-**URL**: https://lovable.dev/projects/e1ccfd08-e794-405e-97ee-3d835e07fea4
+# [mosquito stimulating] 🎯
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## Basic Details
+### Team Name: [twobit]
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e1ccfd08-e794-405e-97ee-3d835e07fea4) and start prompting.
+### Team Members
+- Team Lead: [Hiba minnath EK] - [KAHM unity women's college ]
+- Member 2: [Fathima najwa VK] - [KAHM unity women's College]
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+### Project Description
+[an interactive web project where your mouse becomes a buzzing mosquito. as you approach the human in the center, the buzz intesifies in real time using the web API , creating a fun mix of animation,sound and distance track.]
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### The Problem (that doesn't exist)
+[detectiong the arrival of mosquito around us.]
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### The Solution (that nobody asked for)
+[zzzapper sound remainds mosquito.]
 
-Follow these steps:
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [python,c++]
+- [UI/dashcode]
+- [pysereal,numpy]
+- [lovableai, base44,]
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Implementation
+For Software:
+# Installation
+[git clone https://github.com/yourusername/buzzkill-mosquito-g
+cd buzzkill-mosquito-game
+pip install numpy pysereal]
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Run
+[npm install
 npm run dev
-```
+python mosquito_logic.py]
 
-**Edit a file directly in GitHub**
+### Project Documentation
+For Software: 
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+# Screenshots (Add at least 3)
+<img width="1142" height="790" alt="image" src="https://github.com/user-attachments/assets/cf2a0850-b895-40d7-85e5-37d5d5f42dc0" />
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+# Diagrams
+A simple flow: Mouse movement → Distance Calculation → Audio Adjustment → UI Animation
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+### Project Demo
+# Video
+https://drive.google.com/file/d/14NQiLW3H8D38K8-XAaKU-YqqV79ACq1a/view?usp=sharing
 
-Simply open [Lovable](https://lovable.dev/projects/e1ccfd08-e794-405e-97ee-3d835e07fea4) and click on Share -> Publish.
+## Team Contributions
+Hiba Minnath: Project concept, UI design in Dashcode, README and documentation.  
+fathima najwa : JavaScript logic for cursor proximity detection and buzz sound modulation.
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
