@@ -126,6 +126,24 @@ const MosquitoSimulation = () => {
 
   return (
     <div className="min-h-screen bg-[var(--gradient-bg)] relative overflow-hidden">
+      {/* Animated Background Elements */}
+      <div className="absolute inset-0 pointer-events-none">
+        {/* Large ambient blob - top left */}
+        <div className="absolute -top-32 -left-32 w-96 h-96 bg-gradient-to-br from-primary/20 to-primary-glow/10 rounded-full blur-3xl animate-pulse"></div>
+        
+        {/* Medium biotech blob - bottom right */}
+        <div className="absolute -bottom-20 -right-20 w-80 h-80 bg-gradient-to-tl from-secondary/15 to-accent/10 rounded-full blur-2xl animate-[pulse_3s_ease-in-out_infinite]"></div>
+        
+        {/* Small frequency indicator - top right */}
+        <div className="absolute top-20 right-20 w-48 h-48 bg-gradient-to-br from-accent/20 to-transparent rounded-full blur-xl animate-[ping_4s_ease-in-out_infinite]"></div>
+        
+        {/* Subtle sci-fi glow - center left */}
+        <div className="absolute top-1/2 -left-16 w-64 h-64 bg-gradient-to-r from-primary-glow/15 to-transparent rounded-full blur-2xl animate-[pulse_2.5s_ease-in-out_infinite]"></div>
+        
+        {/* Dynamic ripple effect */}
+        <div className="absolute top-1/3 right-1/3 w-32 h-32 bg-gradient-radial from-accent/20 to-transparent rounded-full blur-lg animate-[ping_6s_ease-in-out_infinite]"></div>
+      </div>
+      
       <Navigation />
       
       {/* Instructions */}
